@@ -4,9 +4,8 @@
 
 ## Education
 
-- Certificate on Data Analytics | Career Foundry (_04/23 to 03/24_)								       		
-- BBA, Operations & Supply Chain Management	| Baruch College (_'16 to '20_)
-
+- Certificate on Data Analytics; Career Foundry (_04/23 to 03/24_)								       		
+- BBA, Operations & Supply Chain Management; Baruch College (_'16 to '20_)
 
 ## Work Experience
 **Commission Specialist @ Compass**
