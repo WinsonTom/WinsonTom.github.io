@@ -42,7 +42,8 @@
 2. Original data set from the CDC & US Census required cleaning through Excel, merging data, and extracting key insights through Pivot tables
 3. Full story was delivered through Tableau visualization. Results were an in-depth understanding of “who, what, where” of influenza season, as well as recommendations on how to allocate staff accordingly.
 
-## Rockbuster - Online video rental company (SQL)
+### Rockbuster - Online video rental company (SQL)
+
 1. Rockbuster Stealth LLC is a movie rental company that is transitioning to an online rental service.
 2. Using PostGreSQL, key business questions pertaining to revenue, average rental duration, location of customer base, customer’s value, and sales figures were answered.
 3. Stakeholders use the information to make adjustments for the future company strategy.
