@@ -43,7 +43,7 @@
 2. Data goes through cleaning, wrangling, merging with other data sources, and mapped through the use of GeoJson files on Python.
 3. Homebuyers have an easy-to-use Tableau storyboard which has a bird’s eye view of any key statistic about NYC neighborhoods.
 
-![Zipcode](WinsonTom.github.io/Images/ZipcodePricing.png)
+![Zipcode](/Images/ZipcodePricing.png)
 
 ### Preparing for Flu Season (Excel)
 
@@ -51,7 +51,7 @@
 2. Original data set from the CDC & US Census required cleaning through Excel, merging data, and extracting key insights through Pivot tables
 3. Full story was delivered through Tableau visualization. Results were an in-depth understanding of “who, what, where” of influenza season, as well as recommendations on how to allocate staff accordingly.
 
-![Where Is Influenza Impacting](WinsonTom.github.io/Images/WhereIsInfluenzaImpacting.jpg)
+![Where Is Influenza Impacting](Images/WhereIsInfluenzaImpacting.jpg)
 
 ### Rockbuster - Online video rental company (SQL)
 - [Github](https://github.com/WinsonTom/SQL-RockbusterCFProject)
@@ -60,11 +60,12 @@
 2. Using PostGreSQL, key business questions pertaining to revenue, average rental duration, location of customer base, customer’s value, and sales figures were answered.
 3. Stakeholders use the information to make adjustments for the future company strategy.
 
-![Top Customers](WinsonTom.github.io/Images/TopCustomers.png)
+![Top Customers](/Images/TopCustomers.png)
 
 ### InstaCart - Online Grocery Store (Python)
 - [Github](https://github.com/WinsonTom/Python-Instacart-Project)
 1. Instacart, an online grocery store, wants to uncover key insights from their sales data to allow for Targeted Marketing rather than a general cookie cutter strategy.
 2. Using Python, the 3 data sets containing orders, products, and customer information, were individually cleaned, then merged together into one pkl file,  wrangled for ease of use, various charts created through Python, and a final deliverable report to recap the changes.  
 3. Sales data providing key insights such as peak & lowest volume hours, demographic of customer type, regional differences, count of product ranges, days per last order, average spending habits. These insights on how sales has been allows decision makers to setup targeted campaigns to attract more clients as well as fill in the current deficiency.
-![InstaCart's Customer Base](WinsonTom.github.io/Images/Bar Chart -Customer Identity.png)
+   
+![InstaCart's Customer Base](/Images/Bar Chart -Customer Identity.png)
