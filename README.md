@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, Excel, Tableau, NetSuite, Zendesk, HelpScout, SkySlope, Microsoft Office
 
 ## Education
-- Certificate on Data Analytics | Career Foundry	(_April 2023 to March 2024_)         		
-- BBA, Operations Management / Supply Chain Management | Baruch College (_2016 to 2020_)
+#Certificate on Data Analytics | Career Foundry	(_April 2023 to March 2024_)         		
+#BBA, Operations Management / Supply Chain Management | Baruch College (_2016 to 2020_)
 
 ## Work Experience
 **Commission Specialist @ Compass; Financial Services & Transaction Operations (_March 2021 - Present_)**
