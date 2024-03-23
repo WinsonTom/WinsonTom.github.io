@@ -36,8 +36,9 @@
 
 ## Projects
 ### New York Housing in 2024 (Python)
-[https://public.tableau.com/views/NewYorkCityHousingGuideFinal/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link](url)
-[https://github.com/WinsonTom/New-York-City-Housing-Guide](url)
+- [Tableau Storyboard](https://public.tableau.com/views/NewYorkCityHousingGuideFinal/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+- [Github](https://github.com/WinsonTom/New-York-City-Housing-Guide)
+  
 1. Homebuyers want to understand neighborhoods rather than just a specific address.
 2. Data goes through cleaning, wrangling, merging with other data sources, and mapped through the use of GeoJson files on Python.
 3.Homebuyers have an easy-to-use Tableau storyboard which has a bird’s eye view of any key statistic about NYC neighborhoods.
@@ -49,7 +50,13 @@
 3. Full story was delivered through Tableau visualization. Results were an in-depth understanding of “who, what, where” of influenza season, as well as recommendations on how to allocate staff accordingly.
 
 ### Rockbuster - Online video rental company (SQL)
+- [Github](https://github.com/WinsonTom/SQL-RockbusterCFProject)
 
 1. Rockbuster Stealth LLC is a movie rental company that is transitioning to an online rental service.
 2. Using PostGreSQL, key business questions pertaining to revenue, average rental duration, location of customer base, customer’s value, and sales figures were answered.
 3. Stakeholders use the information to make adjustments for the future company strategy.
+
+### InstaCart - Online Grocery Store (Python)
+1. A
+2. B
+3. C
