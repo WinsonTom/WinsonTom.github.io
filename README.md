@@ -4,37 +4,38 @@
 
 ## Education
 
-**Certificate on Data Analytics | Career Foundry	(_04/23 to 03/24_)**  
+**Certificate on Data Analytics | Career Foundry (_04/23 to 03/24_)**  
 
-**BBA, Operations Management / Supply Chain Management | Baruch College (_'16 to '20_)**
+**BBA, Operations / Supply Chain Management | Baruch College (_'16 to '20_)**
+
 
 ## Work Experience
 **Commission Specialist @ Compass**
 
 **Financial Services & Transaction Operations**
 
-**(_March 2021 - Present_)**
+**(_03/21 - Present_)**
 - Compass agents across Illinois, Minnesota, and Wisconsin require accurate and streamlined payments for their sales, rentals, and referrals that follows their precise contract terms.
 - Processing and Quality checking deals, while maintaining compliance and team’s exceptions, to get payments out to agents in a timely manner.
 - Ensured 100% of payments under 2 business days and a sub 1% bill payment inaccuracy rate across 2023. All while abiding by each deal’s specific concessions, regional requirements, allocations among team members, and team splits with Compass.
 
 **Real Estate Intern @ Berko & Associates**
 
-**(_September 2019 - November 2019_)**
+**(_09/19 - 11/19_)**
 - Agents needed assistance around the office so that they can prioritize tasks that will create the biggest impact.
 - Acted as a scribe- note taking during meetings, participating in cold calling, logging data, and general data base management.
 - Enhancing the backend tasks to make the process smoother for agents.
 
 **Guided Tour Assistant @ September 11 Memorial & Museum;**
 
-**(_June 2019 - August 2019_)**
+**(_06/19 - 08/19_)**
 - Visitors to the museum often purchase enhanced experiences such as a guided tour. Fulfilled cashier responsibilities, organizing the scheduling, proper queuing, activating audio devices, and answering questions.
 - Ran a help desk, specializing in the guided tour service, in a high paced environment.
 - Logistics of the guided tour was upheld, allowing for an in-depth visitor experience and a stable transition for the tour guides.
 
 **Strength Coach @ Brooklyn Barbell**
 
-**(_February 2017 - September 2017_)**
+**(_02/17 - 09/17_)**
 - Members of the gym value refining the classic strength training movements.
 - Ran a strength training class, 3x a week with up to 10 members. Provided detailed instructions, critiques of technical execution, structured programming, orderliness of classes pertaining to heavy barbell movements.
 - Members improved their size, strength, muscular endurance, will-power, lifestyle habits, and confidence.
