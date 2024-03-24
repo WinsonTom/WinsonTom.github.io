@@ -1,5 +1,7 @@
 # Data Analyst
 
+Data Analyst with a background in real estate and supply chain management. Competent in using Excel, SQL, Python, and Tableau to transform unorganized dirty data to clear cut data-based solutions.
+
 #### Technical Skills: Python, SQL, Excel, Tableau, NetSuite, Zendesk, HelpScout, SkySlope, Microsoft Office
 
 ## Education
@@ -46,6 +48,7 @@
 ![Zipcode](/Images/ZipcodePricing.png)
 
 ### Preparing for Flu Season (Excel)
+- [Tableau Storyboard](https://public.tableau.com/shared/CS3B9RZFG?:display_count=n&:origin=viz_share_link)
 
 1. Staffing demands in hospitals fluctuate based on influenza season and location.
 2. Original data set from the CDC & US Census required cleaning through Excel, merging data, and extracting key insights through Pivot tables
