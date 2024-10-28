@@ -37,13 +37,13 @@ Data Analyst with a background in real estate and supply chain management. Compe
 
 
 ## Projects
-### New York Housing in 2024 (Python)
-- [Tableau Storyboard](https://public.tableau.com/views/NewYorkCityHousingGuideFinal/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-- [Github](https://github.com/WinsonTom/New-York-City-Housing-Guide)
+### New York Housing in 2024 2.0 (Python)
+- [Tableau Storyboard](https://public.tableau.com/app/profile/winson.tom/viz/NYCHousing2_0/Story1)
+- [Github]([https://github.com/WinsonTom/New-York-City-Housing-Guide](https://github.com/WinsonTom/2.0-New-York-City-Housing-Guide-))
   
 1. Homebuyers want to understand neighborhoods rather than just a specific address.
 2. Data goes through cleaning, wrangling, merging with other data sources, and mapped through the use of GeoJson files on Python.
-3. Homebuyers have an easy-to-use Tableau storyboard which has a bird’s eye view of any key statistic about NYC neighborhoods.
+3. Homebuyers have an easy-to-use Tableau storyboard which has a bird’s eye view of about NYC neighborhoods. This helps buyers to filter out what they do not like and desire within a neighborhood. 
 
 ![Zipcode](/Images/ZipcodePricing.png)
 
