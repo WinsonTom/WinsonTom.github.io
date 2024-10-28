@@ -39,7 +39,7 @@ Data Analyst with a background in real estate and supply chain management. Compe
 ## Projects
 ### New York Housing in 2024 2.0 (Python)
 - [Tableau Storyboard](https://public.tableau.com/app/profile/winson.tom/viz/NYCHousing2_0/Story1)
-- [Github]([https://github.com/WinsonTom/New-York-City-Housing-Guide](https://github.com/WinsonTom/2.0-New-York-City-Housing-Guide-))
+- [Github]([https://github.com/WinsonTom/2.0-New-York-City-Housing-Guide-](url))
   
 1. Homebuyers want to understand neighborhoods rather than just a specific address.
 2. Data goes through cleaning, wrangling, merging with other data sources, and mapped through the use of GeoJson files on Python.
